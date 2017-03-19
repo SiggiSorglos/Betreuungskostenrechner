@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.022,C:\temp\Betreuungskostenrechner V0.9 vom 21.10.2005\Betreuungskostenrechner_Soni.dproj=C:\temp\Bertreuungskostenrechner\Betreuungskostenrechner_.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.816,C:\temp\Betreuungskostenrechner V0.9 vom 21.10.2005\Betreuungskostenrechner.dfm=C:\temp\Bertreuungskostenrechner\Betreuungskostenrechner.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.816,C:\temp\Betreuungskostenrechner V0.9 vom 21.10.2005\Betreuungskostenrechner.pas=C:\temp\Bertreuungskostenrechner\Betreuungskostenrechner.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,C:\Dokumente und Einstellungen\sonibung\Eigene Dateien\Borland Studio-Projekte\Betreuungskostenrechner.pas=C:\Dokumente und Einstellungen\sonibung\Eigene Dateien\Borland Studio-Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,C:\Dokumente und Einstellungen\sonibung\Eigene Dateien\Borland Studio-Projekte\Betreuungskostenrechner.dfm=C:\Dokumente und Einstellungen\sonibung\Eigene Dateien\Borland Studio-Projekte\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
